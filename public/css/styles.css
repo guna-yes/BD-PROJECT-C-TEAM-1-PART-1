@@ -1,0 +1,28 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #323232;
+}
+.jumbotron{
+padding-top: 0px;
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: #323232;
+  color: #E8ECEF;
+}
+.space{
+
+  min-height: 200px;
+
+}
+
